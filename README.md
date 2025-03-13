@@ -2,6 +2,7 @@
 
 https://github.com/deepseek-ai/DeepSeek-VL2
 
+![image](workflow.png)
 
 ## Install
 
